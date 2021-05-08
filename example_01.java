@@ -5,6 +5,7 @@ public class example_01 {
         int a, b, c, d;  // 입력받을 변수를 4개 선언한다
         int result;
 
+        @SuppressWarnings("resource")
         Scanner s = new Scanner(System.in);
         System.out.print("첫번째 계산할 값을 입력하세요 ==>");
         a = s.nextInt();  // 키보드로 변수 값을 입력받는다.

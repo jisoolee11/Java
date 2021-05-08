@@ -7,6 +7,7 @@ public class example_03 {
         int result;
         char k; // 연산자를 입력받을 변수를 문자형으로 선언한다.
 
+        @SuppressWarnings("resource")
         Scanner s = new Scanner(System.in);
         System.out.print("첫번째 계산할 값을 입력하세요 ==>");
         a = s.nextInt();
