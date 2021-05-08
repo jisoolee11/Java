@@ -12,7 +12,7 @@ public class example_02 {
         System.out.print("첫번째 계산할 값을 입력하세요 ==>");
         a = s.nextInt();
         System.out.print("<1>덧셈 <2>뺄셈 <3>곱셈 <4>나눗셈 ==>");
-        k = s.nextInt();  // 연산자를 선택한다
+        k = s.nextInt();  // 연산자를 선택한다.
         System.out.print("두번째 계산할 값을 입력하세요 ==>");
         b = s.nextInt();
 
