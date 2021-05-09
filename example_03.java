@@ -1,7 +1,7 @@
 import java.io.IOException;  // IOException 클래스를 임포트한다(입력 예외 처리를 위함)
 import java.util.Scanner;
 
-public class example_03 {
+public class Example_03 {
     public static void main(String[] args) throws IOException {  // throws IOException은 입력 오류 방지를 위한 문법이다.
         int a, b;
         int result;

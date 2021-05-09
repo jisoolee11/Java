@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class example_01 {
+public class Example_01 {
     public static void main(String[] args) {
         int a, b, c, d;  // 입력받을 변수를 4개 선언한다.
         int result;
