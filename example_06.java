@@ -1,4 +1,4 @@
-public class example_06 {
+public class Example_06 {
     public static void main(String[] args) {
         System.out.printf("byte 형의 크기\t ==> %d\n", Byte.SIZE);  //래퍼 클래스의 size필드를 통헤 데이터형의 크기를 비트 단위로 출력한다.
         System.out.printf("short 형의 크기\t ==> %d\n", Short.SIZE);
