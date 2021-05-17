@@ -18,7 +18,7 @@ public class Example_16 {
         str_cnt = str.length();
 
         for (i = str_cnt - 1; i >= 0; i--) {  
-            System.out.printf("%c", str.charAt(i));  //입력된 개수만큼 거꾸로 한 글자씩 출력한다.
+            System.out.printf("%c", str.charAt(i));  //입력된 개수만큼 거꾸로 한 글자씩 출력한다
         }
         
     }
